@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Qiuxia GAO (高秋霞)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-Qiuxia GAO (高秋霞)
 
 Hi, welcome to my website! I’m Qiuxia, a Ph.D. candidate in the Department of Real Estate at the NUS Business School, National University of Singapore.
 My research focuses on environmental economics, urban economics, and global trade policy—especially issues related to air pollution, climate change, and the environmental impacts of trade.
