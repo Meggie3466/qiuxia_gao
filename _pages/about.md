@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 
+
+
+
+
 Hi, welcome to my website! I’m Qiuxia, a Ph.D. candidate in the Department of Real Estate at the NUS Business School, National University of Singapore.
 My research focuses on environmental economics, urban economics, and global trade policy—especially issues related to air pollution, climate change, and the environmental impacts of trade.
 
