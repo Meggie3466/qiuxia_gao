@@ -3,7 +3,6 @@ title: ""
 collection: teaching
 type: "Tutorial Instructor"
 venue: "National University of Singapore"
-date: 2022-2025
 ---
 - RE1702 Real Estate Data Analytics, Fall 2022  
 - RE2708 Computational Thinking and Programming for Real Estate, Fall 2023  
