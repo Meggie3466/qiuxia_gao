@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiuxia GAO (高秋霞)"
+title: "Qiuxia GAO"
 author_profile: true
 redirect_from: 
   - /about/
