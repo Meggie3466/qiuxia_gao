@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Real Estate, National University of Singapore, 2022.08-2026 (expected)
+* M.S. in Economics, National University of Singapore, 2020.08-2022.01
+* B.S. in Economics, Chinese University of HongKong (Shenzhen), 2016.09-2020.06
 
-Work experience
+Work Paper
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
