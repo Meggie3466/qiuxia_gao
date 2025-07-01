@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master Level"
+venue: "Business School, National University of Singapore"
+location: "Singapore"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- RE1702 Real Estate Data Analytics, Fall 2022  
+- RE2708 Computational Thinking and Programming for Real Estate, Fall 2023  
+- RE2801 Research Methodology in Real Estate, Spring 2025  
