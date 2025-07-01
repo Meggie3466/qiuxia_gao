@@ -37,11 +37,13 @@ Skills
 * Languages: Chinese (Native), English (Fluent)
 * Programming: Python, Stata, R, Latex, ArcGIS.
 
-Publications
+Conference
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* SMU-Jinan Conference on Urban and Regional Economics*, 2022.12
+* Asia Meeting of the Econometric Society, 2023.07
+* Asia Meeting of the Econometric Society, East and Southeast Asia, 2024.08
+* Summer Meeting in Urban Economics, China, 2024.08
+* 2025 CUHK Summer School of Asia in the Global Economy, 2025.06
   
 Talks
 ======
