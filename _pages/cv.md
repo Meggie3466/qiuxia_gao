@@ -34,12 +34,8 @@ Work Paper
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Chinese (Native), English (Fluent)
+* Programming: Python, Stata, R, Latex, ArcGIS.
 
 Publications
 ======
