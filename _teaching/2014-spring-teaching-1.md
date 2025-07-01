@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate Leveel"
+type: "Undergraduate Level"
 venue: "Business School, National University of Singapore"
 ---
 
